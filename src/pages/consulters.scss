@@ -1,0 +1,17 @@
+
+
+.profile{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  img{
+    width: 58px;
+    height: 58px;
+    margin-right: 10px;
+  border: 1px solid red;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+}
